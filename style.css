@@ -85,7 +85,7 @@ html, body
 	width: 60%;
     height: 10%;
 	margin-left: 10%;
-    background-image: url(./Snapchat-1749421202_1.jpg);
+    background-image: url(/Snapchat-1749421202_1.jpg);
 }
 /*ABOUT US SECTION*/
 .main-section {
@@ -112,7 +112,7 @@ html, body
 	width: 70%;
 	padding: 0px 50px;
 	margin-top: 20px;
-    background-image: url(./Snapchat-519359951.jpg);
+    background-image: url(/Snapchat-519359951.jpg);
 }
 .about-us {
 	width: 100%;
